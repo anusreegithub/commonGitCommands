@@ -91,6 +91,12 @@ git reset file
 17. adds a new commit that effectively "cancels" the changes from the earlier commit.
 ```
 git revert
+```
+
+18. delete branch
+```
+git -d branchname
+```
 
 
 These are the common git commands needed to learn as a beginner
