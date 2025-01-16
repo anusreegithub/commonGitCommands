@@ -1,6 +1,8 @@
 # commonGitCommands
 Repository for common git commands - Helpful git commands - easy commads
 
+
+
 1. Initalizing the repository
 ```
 git init
